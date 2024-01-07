@@ -1,1 +1,2 @@
-# This project is a "Challenge Project" from CodeCademy
+# Credit Card Checker
+- ##  This project is a challenge project for CodeCademy
